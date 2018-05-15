@@ -1,6 +1,6 @@
-# å¡Ö´÷ËßĞğÂ ¢² RIME
+# ç…æ°£è½‰æ›å™¨ Ã— RIME
 
-ÏÏÌîâ¤Õ»ËôÈÜ [å¡Ö´÷ËßĞğÂ Chrome extension](https://github.com/aszx87410/mars-lang-chrome-extension)¡¤
+åŸå§‹è©å…¸ä¾†è‡ª [ç…æ°£è½‰æ›å™¨ Chrome extension](https://github.com/aszx87410/mars-lang-chrome-extension)ã€‚
 
-WIP¡¢îùÙ¶ÈÓ Wiki¡¤
+WIPï¼Œç”¨æ³•è«‹åƒè¦‹ Wikiã€‚
 
