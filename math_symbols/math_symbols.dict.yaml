@@ -3,7 +3,7 @@
 
 ---
 name: math_symbols
-version: '20180521-pre'
+version: '20191201-pre'
 sort: by_weight
 ...
 
@@ -50,7 +50,7 @@ sort: by_weight
 →	to
 ←	gets
 ≤	leq
-≥	req
+≥	geq
 ≠	neq
 ∋	owns
 √	sqrt
@@ -232,7 +232,8 @@ sort: by_weight
 ≕	eqcolon
 ≖	eqcirc
 ≗	circeq
-≙	wedgeq
+≙	wed
+
 ≛	starequal
 ≜	triangleq
 ≟	questeq
