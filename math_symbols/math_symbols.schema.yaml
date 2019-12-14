@@ -1,0 +1,38 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: math_symbols
+  name: '數學符號們'
+  description: |
+    Minimal Rime schema for compiling a prism.
+    https://github.com/andy0130tw/aarrr-rime
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - fluency_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz;,./-1234567890`'
+  delimiter: '|'
+
+translator:
+  dictionary: math_symbols
+  prism: math_symbols
