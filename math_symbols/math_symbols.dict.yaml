@@ -56,8 +56,8 @@ sort: by_weight
 √	sqrt
 ⟹	implies
 ⟸	impliedby
-∧	lor
-∨	land
+∧	land
+∨	lor
 ¬	lnot
 ∅	emptyset
 ↾	restriction
